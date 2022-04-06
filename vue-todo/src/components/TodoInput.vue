@@ -22,4 +22,9 @@ export default {
   </div>
 </template>
 
-<style scoped></style>
+<style scoped>
+.input-container{
+  display: flex;
+  justify-content: center;
+}
+</style>
